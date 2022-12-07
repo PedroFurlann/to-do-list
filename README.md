@@ -2,9 +2,14 @@
 
 CRUD application made with :
 
-<h4>NODE.JS<h4>
-<h4>BULMA<h4>
-
+<ul>
+<li><h4>NODE.JS</h4><li>
+<h4>BULMA</h4>
+<li><h4>EXPRESS.JS</h4></li>
+<li><h4>EJS</h4></li>
+<li><h4>MONGODB</h4></li>
+<li><h4>MONGOOSE</h4</li>
+</ul>
 
 <h3> How to Run <h3>
 
