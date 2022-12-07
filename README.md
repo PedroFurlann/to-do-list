@@ -14,8 +14,8 @@ $ git clone https://github.com/PedroFurlann/to-do-list.git
 
 $ cd to-do-list
 
-$npm install
+```$ npm install```
 
-$npm run dev
+$ npm run dev
 
 <h4>Ready! Now your to-do-list will be running on localhost:3000 !!!<h4>
